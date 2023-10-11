@@ -4,20 +4,20 @@ You can find the software tests I have written and the codes related to the YouT
 
 Skills: JAVA / SELENIUM / CUCUMBER / JUNIT / TESTNG / APPIUM/ DB /API / POSTMAN/ JDBC / JS / HTML / CSS / CUCUMBER /ROBOTFRAMEWORK
 
-- 🔭 I’m currently working on https://github.com/HakanKara75/Gold_Cucumber 
+- 🔭 I’m currently working on https://github.com/hakankara75/Gold_Cucumber 
 - 🌱 I’m currently learning CUCUMBER 
-- 👯 I’m looking to collaborate on https://github.com/HakanKara75/Gold_Cucumber 
+- 👯 I’m looking to collaborate on https://github.com/hakankara75/Gold_Cucumber 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HakanKara75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hakan-batur-kara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@HakanBatirhanKara)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HakanKara75)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hakankara75)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakanKara75)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakankara75)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HakanKara75&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hakankara75&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HakanKara75)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hakankara75)  
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+hakankara75&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>

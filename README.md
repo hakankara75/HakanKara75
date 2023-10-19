@@ -4,9 +4,9 @@ You can find the software tests I have written and the codes related to the YouT
 
 Skills: JAVA / SELENIUM / CUCUMBER / JUNIT / TESTNG / APPIUM/ DB /API / POSTMAN/ JDBC / JS / HTML / CSS / CUCUMBER /ROBOTFRAMEWORK
 
-- 🔭 I’m currently working on https://github.com/hakankara75/Gold_Cucumber 
+- 🔭 I’m currently working on https://github.com/hakankara75/Cypress_Cucumber_Practice
 - 🌱 I’m currently learning CUCUMBER 
-- 👯 I’m looking to collaborate on https://github.com/hakankara75/Gold_Cucumber 
+- 👯 I’m looking to collaborate on https://github.com/hakankara75/Cypress_Cucumber_Practice
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HakanKara75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hakan-batur-kara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@HakanBatirhanKara)  

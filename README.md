@@ -9,8 +9,7 @@ Skills: JAVA / SELENIUM / CUCUMBER / JUNIT / TESTNG / APPIUM/ DB /API / POSTMAN/
 - 👯 I’m looking to collaborate on https://github.com/hakankara75/Cypress_Cucumber_Practice
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HakanKara75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hakan-batur-kara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@HakanBatirhanKara)  [image](https://github.com/hakankara75/HakanKara75/assets/121823671/71f3028f-4ba5-46ef-abb1-1c32163f4347](https://testrelic.com/problemlerim/)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HakanKara75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hakan-batur-kara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@HakanBatirhanKara) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hakankara75)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -2,10 +2,10 @@
 #### Software Test Engineer
 You can find the software tests I have written and the codes related to the YouTube lessons I've provided on my page.
 
-Skills: JAVA / SELENIUM / CUCUMBER / JUNIT / TESTNG / APPIUM/ DB /API / POSTMAN/ JDBC / JS / HTML / CSS / CUCUMBER /ROBOTFRAMEWORK
+Skills: JAVA / SELENIUM / CUCUMBER / JUNIT / TESTNG / APPIUM/ DB /API / POSTMAN/ JDBC / JS / HTML / CSS / CYPRESS /ROBOTFRAMEWORK
 
 - 🔭 I’m currently working on https://github.com/hakankara75/Cypress_Cucumber_Practice
-- 🌱 I’m currently learning CUCUMBER 
+- 🌱 I’m currently learning CYPRESS 
 - 👯 I’m looking to collaborate on https://github.com/hakankara75/Cypress_Cucumber_Practice
 
 

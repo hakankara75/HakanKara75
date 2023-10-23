@@ -6,7 +6,8 @@ Skills: JAVA / SELENIUM / CUCUMBER / JUNIT / TESTNG / APPIUM/ DB /API / POSTMAN/
 
 - 🔭 I’m currently working on https://github.com/hakankara75/Cypress_Cucumber_Practice
 - 🌱 I’m currently learning CYPRESS 
-- ![images2](https://github.com/hakankara75/HakanKara75/assets/121823671/be2db330-7d3c-4f10-aec0-eb7ec687f255)
+- ![images2](https://github.com/hakankara75/HakanKara75/assets/121823671/c3fb6da2-9898-41d9-aa24-66961fd703e2)
+
 
 
 
